@@ -1,4 +1,4 @@
-# Baby’s Big Adventure
+# Nihara Adventure
 
 A cozy, playable 3D browser prototype built with Three.js and Vite. Explore a miniature nursery, collect three stars, and jump onto the pink cushion to reach Teddy.
 
